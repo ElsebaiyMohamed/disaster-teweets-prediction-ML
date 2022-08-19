@@ -2,7 +2,8 @@
 ML course final project at our college
 
 ---
-Install all requirements package in requirements.txt before run 
+Install all requirements package in requirements.txt before run via:
+
 ```pip install -r requirements.txt```
 
 ---
