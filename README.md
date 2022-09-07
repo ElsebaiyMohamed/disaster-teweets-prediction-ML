@@ -4,16 +4,16 @@
 ---
 ## Problem 
 
-    When any disaster occurred, the people talked on social media about it momentarily. Emergency personnel can use tools to monitor all tweets on real time and if the tweet represent a disaster the tool will let them know the needed information about the disaster.
+ When any disaster occurred, the people talked on social media about it momentarily. Emergency personnel can use tools to monitor all tweets on real time and if the tweet represent a disaster the tool will let them know the needed information about the disaster.
 
 ## Our mission 
-    detecting that the tweet is fake disaster alarm or not.
+detecting that the tweet is fake disaster alarm or not.
 
 ---
 
  Install all requirements package in requirements.txt before run:
 
-- ```pip install -r requirements.txt```
+ ```pip install -r requirements.txt```
 
 ---
 
