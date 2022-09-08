@@ -1,4 +1,4 @@
-# disaster-teweets-prediction-ML | ML course final project at our college
+# Disaster-teweets-prediction-ML | ML course final project at our college
 
 
 ---
