@@ -25,4 +25,4 @@ detecting that the tweet is fake disaster alarm or not.
 * ## Mahmoud hafez
 * ## Amany Ashraf
 * ## Farah mohamed
-* ## Mariem hossam
+* ## [Mariem hossam](https://github.com/AmanyAshrafAhmed)
