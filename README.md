@@ -20,9 +20,9 @@ detecting that the tweet is fake disaster alarm or not.
 # Team Members:
 
 * ##  Elsebaiy Mohamed
-* ## Ali Mossad 
-* ## Ahmed hafez
-* ## Mahmoud hafez
-* ## Amany Ashraf
-* ## Farah mohamed
-* ## [Mariem hossam](https://github.com/AmanyAshrafAhmed)
+* ## [Ali Mossad](https://github.com/alimosaad) 
+* ## [Ahmed hafez](https://github.com/Ahmed2hafez)
+* ## [Mahmoud hafez](https://github.com/Mahmoud0Mohamed)
+* ## [Amany Ashraf](https://github.com/AmanyAshrafAhmed)
+* ## [Farah mohamed](https://github.com/FarahMohamedd)
+* ## [Mariem hossam](https://github.com/Mariam123353)
